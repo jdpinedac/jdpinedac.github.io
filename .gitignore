@@ -1,9 +1,8 @@
-.vscode
-# .vscode/*
-# !.vscode/settings.json
-# !.vscode/tasks.json
-# !.vscode/launch.json
-# !.vscode/extensions.json
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -58,3 +57,8 @@ flycheck_*.el
 
 # network security
 /network-security.data
+
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
