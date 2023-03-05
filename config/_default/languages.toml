@@ -1,0 +1,13 @@
+# Uncomment this file to enable multilanguage site support
+
+[es]
+languageName = "Español"
+languagedirection = "ltr"
+title = "Blog de Juan Pineda"
+weight = 1
+
+# [en]
+# languageName = "English"
+# languagedirection = "ltr"
+# title = "Example Site"
+# weight = 1
